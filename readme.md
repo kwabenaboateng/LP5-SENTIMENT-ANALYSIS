@@ -7,7 +7,7 @@ In this project, the concept of transfer learning was employed to fine tune nove
 ## Summary
 | Code      | Name        | Published Article |  Deployed App|
 |-----------|-------------|:-------------:|:-------------:|
-|P5     | Sentiment Analysis  |  https://www.linkedin.com/pulse/leveraging-transfer-learning-building-sentiment-analysis-boateng[](/) |     https://huggingface.co/spaces/MrDdz/Tweet-Sentiment-Analysis [](/)          |
+|P5     | Sentiment Analysis  |  https://www.linkedin.com/pulse/leveraging-transfer-learning-building-sentiment-analysis-boateng[](/) |     https://huggingface.co/spaces/Kwabbs/SENTIMENT_APP [](/)          |
 --------------------------------------------------
 
 ## Project Description
